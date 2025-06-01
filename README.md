@@ -1,0 +1,1 @@
+Algoritma ini adalah greedy pathfinding dengan beberapa logika tambahan untuk menghindari rintangan dan memprioritaskan pulang ke base jika kondisi tertentu terpenuhi. Bot selalu memilih langkah yang secara lokal paling menguntungkan, dengan sedikit perhitungan untuk menghindari bahaya di jalur.
