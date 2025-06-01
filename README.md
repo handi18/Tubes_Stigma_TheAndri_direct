@@ -9,4 +9,4 @@ Bot selalu memilih langkah yang secara lokal paling menguntungkan, dengan sediki
 2. Jika diamond penuh (5) atau waktu hampir habis, bot langsung pulang ke base. Jika tidak, bot mencari diamond terdekat, atau red button jika lebih dekat.
 
 
-**file utama direct.py dan direct_attack.py**
+**File utama direct.py dan direct_attack.py**
