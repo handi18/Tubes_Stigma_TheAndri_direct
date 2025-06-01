@@ -10,3 +10,9 @@ Bot selalu memilih langkah yang secara lokal paling menguntungkan, dengan sediki
 
 
 **File utama direct.py dan direct_attack.py**
+
+TheAndri:
+1. Doni Agus Setiawan (123140009)
+2. Handialrizky (123140012)
+3. Vebri Yanti (123140056)
+
