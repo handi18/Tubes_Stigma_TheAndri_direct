@@ -5,4 +5,5 @@ Bot selalu memilih langkah yang secara lokal paling menguntungkan, dengan sediki
 **Tujuan Algoritma**
 
 
-Bot bertugas mengumpulkan diamond sebanyak mungkin dan kembali ke base dengan aman, sambil menghindari bahaya seperti teleporter, musuh, dan diamond merah (red diamond).
+1. Bot bergerak secara greedy untuk mengambil diamond terdekat, menghindari rintangan (teleporter, red diamond), dan kembali ke base jika sudah cukup diamond atau waktu hampir habis.
+2. Jika diamond penuh (5) atau waktu hampir habis, bot langsung pulang ke base. Jika tidak, bot mencari diamond terdekat, atau red button jika lebih dekat.
